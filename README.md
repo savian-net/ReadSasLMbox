@@ -10,7 +10,7 @@ Barry Grau said:
 *Go here: https://archive.org/download/usenet-comp*
 *Scroll to comp.soft-sys.sas.mbox.zip(or just click on the link here)*
 
-*** Purpose
+###Purpose
 
 Reads the SAS-L mailbox stored at usenet and creates a SQLite DB.
 
